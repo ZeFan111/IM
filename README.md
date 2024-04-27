@@ -18,6 +18,8 @@
 
 - ⭐ 个人主页： [泽凡工作室](https://www.xxgame.vip/)  
 
+- ⭐ 个人博客： [博客文章站](https://www.zefan117.cn/) 
+
 - 💻 个人网盘： [个人云网盘](https://cloud.xxgame.vip/) 
 
 - 🎮 游戏科技： [老先生平台](http://lxs.xxgame.vip/login/) 
@@ -49,3 +51,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - ...
+
