@@ -1,4 +1,4 @@
-## Zefan Studio - 被搁浅的☀
+## Zefan - 被搁浅的☀
 ---
 <a href="http://wpa.qq.com/msgrd?v=3&uin=3111118880&site=qq&menu=yes">
   <img align="left" alt="泽凡 | QQ" width="26px" src="https://raw.githubusercontent.com/ZeFan1206/-/fd70c3dbfb64490ffa47bf2bc57c40aeb3b60b28/QQ.svg" />
@@ -13,7 +13,7 @@
 <br />
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ZeFan1206/-/main/gif.gif" />
 
-### I'm Zefan Studio 
+### I'm Zefan
 
 - ⚡ `PHP` && `软件开发` && `打游戏`
 
